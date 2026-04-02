@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Games - Administrative Utilities & Control Panels
 demo_url: https://demo.gameap.com/
